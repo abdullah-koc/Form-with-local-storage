@@ -3,6 +3,7 @@ import "./App.css";
 import Form from "./Pages/Form";
 
 function App() {
+  console.log("test");
   return <Form />;
 }
 
